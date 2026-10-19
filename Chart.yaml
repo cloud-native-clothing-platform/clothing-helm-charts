@@ -1,0 +1,6 @@
+apiVersion: v2
+name: clothing-service
+description: Reusable Helm chart for Clothing Platform FastAPI services
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
